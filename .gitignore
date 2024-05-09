@@ -1,0 +1,21 @@
+.idea/
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
+# Spring Boot devtools properties
+spring-boot-devtools.log
