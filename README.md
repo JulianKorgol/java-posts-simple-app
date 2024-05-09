@@ -1,5 +1,5 @@
 # Java Posts Simple App
-Simple app to handle posts in Java Spring Boot.
+Simple app to handle posts in Java Spring Boot. App before JAVA exam 4 in Techni Schools. 
 
 
 ## Features
